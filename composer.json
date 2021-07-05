@@ -1,0 +1,17 @@
+{
+    "name": "j_turebayev/lesson1",
+    "autoload": {
+        "psr-4": {
+            "JTurebayev\\Lesson1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Javlonbek",
+            "email": "javlonbek0591@gmail.com"
+        }
+    ],
+    "require": {	
+	"php-amqplib/php-amqplib" : ">=3.0" 
+    }
+}
